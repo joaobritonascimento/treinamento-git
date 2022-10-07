@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>TREINAMENTO-GIT</title>
+    </head>
+    <body>
+    <script>
+    h1 }
+    color:blue;
+        {
+        <h1>Quais os comandos para configurar usuário e email no git?</h1>
+        <h3>git config --global user.name<br>
+            git config --global user.email
+        </h3>
+        <h1>Qual a diferença entre git e github?</h1>
+        <h3>Git é uma tecnologia de versionamento. O gitHub é um sistema que hospeda arquivos e códigos
+            com controle de versionamento.
+        </h3>
+        <h1>O que faz o comando commit</h1>
+        <h3>Prepara os arquivos/ suas alterações que você deseja colocar no repositório. Estes arquivos, no qual passaram pelo
+             commit são semelhantes a um recorte do estado atual dos seus arquivos.
+        </h3>
+        <h1>O que faz o comando push</h1>
+        <h3>Sobe os arquivos preparados com o commit para o servidor</h3>
+        <h1>O que faz o comando pull</h1>
+        <h3>Ele verifica se o repositório selecionado possui alguma alteração (commit) no servidor, se possuir ele realiza o
+            download da alteraçãp e atualiza no seu repositório local.
+        </h3>
+    </body>
+</html>
